@@ -47,6 +47,7 @@ Performance Web: Cache HTTP, Sprites, minify js and css, images optimize.
 * [Nespresso - Ofertas Especiais](https://www.nespresso.com/br/pt/ofertas-especiais)
 * [Nespresso - Lattissima One](http://nespressotrade.com.br/landings/lattissima-one/)
 * [Minuto Odeprev](https://www.odebrechtprevidencia.org.br/Institucional_Web/PagMenuImagens/CanaldeVideos.aspx)
+* [Tutum](http://www.tutum.com.br)
 * [Cadastro de Consultoras Natura](https://cadastro.rede.natura.net/?banner)
 * Black Friday Nespresso (2017 e 2018)
 * Nespresso YEP (2017 e 2018)
